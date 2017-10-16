@@ -1,0 +1,38 @@
+div{
+
+    width: 960;
+}
+
+h1{
+    color: red;
+    text-align: center;
+    position: fixed;
+   
+}
+
+img{
+
+    height: 200px;
+
+
+}
+.first {
+
+    position: normal;
+}
+.second {
+
+    position: relative;
+    top: 600px;
+}
+
+.third {
+
+
+    position: absolute;
+
+    left: 900px;
+    top: 3px
+    
+}
+

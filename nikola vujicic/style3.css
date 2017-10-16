@@ -1,0 +1,21 @@
+.box{
+    width: 200px;
+    height: 200px;
+}
+
+.green{
+    background-color: green;
+    position: relative;
+    
+
+}
+
+.red {
+    background-color: red;
+    position: relative;
+
+}
+
+.gold {
+    background-color: gold;
+}
