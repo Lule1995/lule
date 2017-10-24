@@ -1,0 +1,68 @@
+#navigacija {
+  background: #2c355b; }
+  #navigacija .navbar-light .navbar-toggler {
+    color: #ffffff;
+    background-color: #49d19a;
+    font-family: "Montserrat", sans-serif; }
+  #navigacija .navbar-light .navbar-toggler-icon {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Menu%2C_Web_Fundamentals_%28White%29.svg/2000px-Menu%2C_Web_Fundamentals_%28White%29.svg.png");
+    background-size: 20px; }
+  #navigacija .navbar-light .navbar-brand {
+    color: #ffffff;
+    font-family: "Montserrat", sans-serif; }
+  #navigacija .navbar-light .navbar-nav .nav-link {
+    color: #ffffff; }
+
+#pozadina-slike {
+  background-color: #49d19a;
+  text-align: center; }
+  #pozadina-slike .slidza {
+    padding-top: 40px; }
+  #pozadina-slike h2 {
+    padding-top: 40px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center; }
+  #pozadina-slike #crtica {
+    width: 300px;
+    height: 100px; }
+  #pozadina-slike h5 {
+    color: #ffffff;
+    padding-bottom: 50px; }
+
+#portfolio {
+  text-align: center;
+  padding-top: 50px; }
+  #portfolio h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold; }
+  #portfolio img {
+    padding-bottom: 10px; }
+
+#about {
+  text-align: center;
+  margin-top: 60px;
+  padding-top: 50px;
+  background-color: #49d19a;
+  padding-bottom: 50px; }
+  #about h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    color: #ffffff; }
+  #about img {
+    width: 35px; }
+  #about p {
+    text-align: left;
+    color: #ffffff; }
+  #about #crtica {
+    width: 300px;
+    height: 100px; }
+
+#kontakt {
+  text-align: center; }
+  #kontakt label {
+    text-align: left;
+    border: none; }
+
+/*# sourceMappingURL=main.css.map */
