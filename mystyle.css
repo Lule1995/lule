@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(224, 110, 110);
+}
+
+h1 {
+    color: rgb(196, 48, 7)}
+
+#dva {
+    border-radius: 50%;
+   
+}
+
+#tri {
+    border-radius: 50%;
+}
+
+#jedan {
+    border-radius: 50%;
+}
+
+#cetiri {
+    border-radius: 50%;
+}
+.cardone  {border-style:solid}
+
+.cardtwo  {border-style:solid}
+
+.cardthree {border-style:solid}
+
+.cardfour {border-style:solid}
